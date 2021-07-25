@@ -1,2 +1,4 @@
 # LearningGit
-Software Construction and Configuration, UECS2363 Practical Lab Session - Created on 28 June 2021
+This is a repo for UECS2363 Practical 4-6
+This line is added after cloning the repo for Practical 5
+Using Git in my own workstation.
